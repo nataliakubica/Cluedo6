@@ -1,0 +1,13 @@
+Benjamin - Heb je een alibi voor de avond van de moord en kan iemand dit bevestigen? - 0366b8bce6db84a981d166ea113108881ffb49e7
+Cluelia - Ging David vaker weg? - c2a39029570ed3e7d609dc1f0bfbb727e6e83b54
+Patricia - Is je iets vreemds opgevallen afgelopen dagen? - e96c8083c4bd2c0c95933f4dc6f42e2af55469e6
+Fabian - Is je iets vreemds opgevallen afgelopen dagen? - 0c68259fa5b69e53aab65a7f30f7ed8b1587d053
+Marjo - Wat doe je dagelijks voor werk? - d34f55ab2beb738b0f745105b44321e63152fd37
+Sam - Wat doe je dagelijks voor werk? - c57d58669a1746f848b64e6a84d224827db78455
+Bob - Wat doe je dagelijks voor werk? - 12e92db2c48742e90b21502035fc748721b0538e
+Benjamin - Wat doe je dagelijks voor werk? - 56a659a4217ce2080acdbc1b83255efeae42e0c5
+Sam - Wat is je schoenmaat? - 53061627ad133fa5de1a939d4c150ddd08b1a9f0
+Bob - Kan je iemand bedenken die David dood zou willen hebben? - 83b0afd4fc4dcaf9cb8852c6e805d30d78d47428
+Cluelia - Wat is het laatste pakket dat je hebt ontvangen? - 6c6c3dbae945ecaf5ea530287d7545d6dd70373c
+Fabian - Wat is de laatste keer dat je David nog in levende lijve gezien hebt? - 8569e614602ad1ac586ade12c97184abea2e9ae9
+
