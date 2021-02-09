@@ -1,0 +1,40 @@
+Handige git-cheatsheets:
+https://www.deleidscheflesch.nl/p/gitworkshop
+
+Stel je bent "Benjamin".
+
+Stel een vraag aan "Delano:"
+- Zoek de vraag op in "mijn_vragen.txt", neem de code (Bijvoorbeeld 369229efa72293bbb272)
+- Ga naar de branch van Delano:
+  "git checkout Delano"
+- Pas het "Q_en_A.txt bestand aan met je favoriete editor, zet hierin alleen de code.
+- Maak een commit
+  "git add Q_en_A.txt"
+  "git commit"
+  (editor verschijnt. Typ een nuttige commit message. Zit je in vim? Met 'i' kun je editen, met 'esc esc esc' (soms nodig) en dan ':wq' en dan 'enter' ga je eruit)
+- Push je nieuwe commit
+  "git push"
+- Ga iets anders doen terwijl je wacht op Delano die je vraag beantwoord (Bijvoorbeeld vragen aan jezelf beantwoorden)
+- Is het antwoord nuttig? Ga dan naar main en zet al het nuttige in het notitieboekje.
+  "git checkout main"
+  Zet het in "notitieboekje.txt" met je favoriete editor.
+  "git add notitieboekje.txt"
+  "git commit"
+  "git push"
+- Ga zo door en de moord is snel opgelost!
+
+
+Beantwoord een vraag:
+- Kijk of er een vraag is:
+  Zit je op je eigen branch? ("git status") Nee -> "git checkout <je branch>" (Dus "git checkout Benjamin" als je Benjamin bent).
+- Pull aanpassingen aan die branch
+  "git pull"
+- Lees het "Q_en_A.txt"-bestand
+- Is er een code zonder een antwoord?
+  Zet het antwoord erbij met je favoriete editor
+  Maak een commit
+    "git add Q_en_A.txt"
+    "git commit"
+    Maak een commit message
+  Push je commit
+    "git push"
